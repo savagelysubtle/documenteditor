@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Doc IDE",
+  "description": "An IDE-style document editor with a built-in AI chat assistant powered by Gemini. Upload, edit, and get AI-powered feedback on your documents in a developer-focused interface.",
+  "requestFramePermissions": []
+}
